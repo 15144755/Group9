@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Donal Kearns\Desktop\MusicU App\musicU_test_4\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\Donal Kearns\Desktop\MusicU App\musicU_test_4\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_43de4439fc34bbdb9300a4b01a5e12fd689e432b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Donal Kearns\Desktop\MusicU App\musicU_test_4\app\build\intermediates\exploded-aar\org.puredata.android\pd-core\1.0.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="79334435f653b507dd64f120572d49d9620bbf49">
+        <dex dex="C:\Users\Donal Kearns\Desktop\MusicU App\musicU_test_4\app\build\intermediates\pre-dexed\debug\org.puredata.android-pd-core-1.0.2_97cd2d0a7a27253374c060d3c3fc563116795a02.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Donal Kearns\Desktop\MusicU App\musicU_test_4\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\20.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="f21927d22fe31889ecce94dd697a2e75b137e0ef">
+        <dex dex="C:\Users\Donal Kearns\Desktop\MusicU App\musicU_test_4\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-20.0.0_275c93929ec1223047e68c078c788eb178541e97.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Donal Kearns\Desktop\MusicU App\musicU_test_4\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Donal Kearns\Desktop\MusicU App\musicU_test_4\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.1_7c4d96bcd6484fa254a4e389b80403729cd71dc3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Donal Kearns\Desktop\MusicU App\musicU_test_4\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\Donal Kearns\Desktop\MusicU App\musicU_test_4\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_cca380aa73a760c77baadbcac2ae65b64761a63e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Donal Kearns\Desktop\MusicU App\musicU_test_4\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="7ed41d7ced36d13daad5078d7c012890b8f8bf1e">
+        <dex dex="C:\Users\Donal Kearns\Desktop\MusicU App\musicU_test_4\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_bdfb4e3c8a3a9baa2ea80371be49777c3d7b214d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Donal Kearns\Desktop\MusicU App\musicU_test_4\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\Donal Kearns\Desktop\MusicU App\musicU_test_4\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_ba7d2d9204decb6ee21aebc34a78782a108eb7ac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Donal Kearns\Desktop\MusicU App\musicU_test_4\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\Donal Kearns\Desktop\MusicU App\musicU_test_4\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_5024e0710873e195122ef59a42d2cd69c8bdf7df.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Donal Kearns\Desktop\MusicU App\musicU_test_4\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\Donal Kearns\Desktop\MusicU App\musicU_test_4\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.1_474317f8422dcf2560710a1dcd97134fd9f5645e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Donal Kearns\Desktop\MusicU App\musicU_test_4\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\Donal Kearns\Desktop\MusicU App\musicU_test_4\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.1_c9fb5d748cb675bca99cd40dfc5d37d41c39aed6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Donal Kearns\Desktop\MusicU App\musicU_test_4\app\build\intermediates\exploded-aar\com.noisepages.nettoyeur\midi\1.0.0-rc1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="a35b73ff5c4ab6af57b21c03b9b3aa234d816a7f">
+        <dex dex="C:\Users\Donal Kearns\Desktop\MusicU App\musicU_test_4\app\build\intermediates\pre-dexed\debug\com.noisepages.nettoyeur-midi-1.0.0-rc1_6148bacb33048742eb7141bf0d0732bfac180c70.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Donal Kearns\Desktop\MusicU App\musicU_test_4\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\Donal Kearns\Desktop\MusicU App\musicU_test_4\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.1_d98c13e20ac00515b334e4a50a826dc48808658a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Donal Kearns\Desktop\MusicU App\musicU_test_4\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\Donal Kearns\Desktop\MusicU App\musicU_test_4\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.1_6334f8d26a980074459aede22b1307cdc0e5b616.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Donal Kearns\Desktop\MusicU App\musicU_test_4\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\Donal Kearns\Desktop\MusicU App\musicU_test_4\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_1cf584b79baf233dec81e74e78cecda4cec3fe71.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Donal Kearns\Desktop\MusicU App\musicU_test_4\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\Donal Kearns\Desktop\MusicU App\musicU_test_4\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.1_3c11d51f2c04025741a8d27327800328e63c9556.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\Donal Kearns\Desktop\MusicU App\musicU_test_4\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_10cd953c940accdea77ebb67004f63b8f836c70e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Donal Kearns\Desktop\MusicU App\musicU_test_4\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="9e82a6dbc754a6ebcda7d4437a490951a92fe15b">
+        <dex dex="C:\Users\Donal Kearns\Desktop\MusicU App\musicU_test_4\app\build\intermediates\pre-dexed\debug\instant-run_ce477637aa5a6d675250a9d044ce3f98ed4b6fdd.jar" />
+    </item>
+
+</items>

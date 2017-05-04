@@ -1,0 +1,334 @@
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background"
+
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="8dp"
+    android:paddingRight="8dp"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.example.testble.MainActivity" >
+
+
+    <Button
+        android:text="A"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:id="@+id/noteA"
+        style="@android:style/Widget.DeviceDefault.Light.Button.Small"
+        android:layout_alignBaseline="@+id/noteGsharp"
+        android:layout_alignBottom="@+id/noteGsharp"
+        android:layout_toEndOf="@+id/noteGsharp" />
+
+    <Button
+        android:text="C#"
+        android:layout_width="40dp"
+        android:layout_height="60dp"
+        android:id="@+id/noteCsharp"
+        style="@android:style/Widget.DeviceDefault.Light.Button.Small"
+        android:layout_alignBaseline="@+id/noteA"
+        android:layout_alignBottom="@+id/noteA"
+        android:layout_toEndOf="@+id/noteB" />
+
+    <Button
+        android:text="F"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:id="@+id/keyF"
+        style="@android:style/Widget.DeviceDefault.Light.Button.Small"
+        android:layout_toStartOf="@+id/keyG"
+        android:layout_alignBottom="@+id/keyE" />
+
+
+    <Button
+        android:text="D#"
+        android:layout_width="40dp"
+        android:layout_height="60dp"
+        android:id="@+id/noteDsharp"
+        style="@android:style/Widget.DeviceDefault.Light.Button.Small"
+        android:layout_alignBaseline="@+id/noteA"
+        android:layout_alignBottom="@+id/noteA"
+        android:layout_toEndOf="@+id/noteCsharp" />
+
+
+    <Button
+        android:text="B"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:id="@+id/noteB"
+        style="@android:style/Widget.Holo.Light.Button.Small"
+        android:layout_alignBaseline="@+id/noteFsharp"
+        android:layout_alignBottom="@+id/noteFsharp"
+        android:layout_toEndOf="@+id/noteA" />
+
+    <Button
+        android:text="G#"
+        android:layout_width="40dp"
+        android:layout_height="60dp"
+        android:id="@+id/noteGsharp"
+        style="@android:style/Widget.DeviceDefault.Light.Button.Small"
+        android:layout_alignBaseline="@+id/noteE"
+        android:layout_alignBottom="@+id/noteE"
+        android:layout_toEndOf="@+id/noteFsharp" />
+
+    <TextView
+        android:text="Key"
+        android:layout_width="40dp"
+        android:layout_height="20dp"
+        android:id="@+id/textView16"
+        android:layout_alignBottom="@+id/radioButton5"
+        android:layout_alignParentStart="true" />
+
+    <Button
+        android:text="F#"
+        android:layout_width="40dp"
+        android:layout_height="60dp"
+        android:id="@+id/noteFsharp"
+        style="@android:style/Widget.DeviceDefault.Light.Button.Small"
+        android:layout_alignBaseline="@+id/noteGsharp"
+        android:layout_alignBottom="@+id/noteGsharp"
+        android:layout_toEndOf="@+id/noteE" />
+
+    <Button
+        android:text="G"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:id="@+id/keyG"
+        style="@android:style/Widget.DeviceDefault.Light.Button.Small"
+        android:layout_marginEnd="11dp"
+        android:layout_alignBaseline="@+id/keyC"
+        android:layout_alignBottom="@+id/keyC"
+        android:layout_toStartOf="@+id/keyA" />
+
+    <SeekBar
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:id="@+id/reverb1"
+    android:max="100"
+        android:layout_above="@+id/onOffSwitch2"
+        android:layout_alignParentStart="true" />
+
+    <Button
+        android:text="B"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:id="@+id/chordB"
+        style="@android:style/Widget.Holo.Light.Button.Small"
+        android:layout_alignBaseline="@+id/chordE"
+        android:layout_alignBottom="@+id/chordE"
+        android:layout_toEndOf="@+id/keyF" />
+
+    <Button
+        android:text="G#m"
+        android:layout_width="40dp"
+        android:layout_height="70dp"
+        android:id="@+id/chordGsharpdim"
+        style="@android:style/Widget.Holo.Light.Button.Small"
+        android:layout_below="@+id/textView6"
+        android:layout_toEndOf="@+id/chordFsharpdim" />
+
+    <Button
+        android:text="F#m"
+        android:layout_width="40dp"
+        android:layout_height="70dp"
+        android:id="@+id/chordFsharpdim"
+        style="@android:style/Widget.DeviceDefault.Light.Button.Small"
+        android:layout_below="@+id/textView6"
+        android:layout_toEndOf="@+id/chordE" />
+
+    <Button
+        android:text="D"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:id="@+id/keyD"
+        style="@android:style/Widget.DeviceDefault.Light.Button.Small"
+        android:layout_alignBaseline="@+id/keyC"
+        android:layout_alignBottom="@+id/keyC"
+        android:layout_toEndOf="@+id/textView3" />
+
+    <Button
+        android:text="E"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:id="@+id/noteE"
+        style="@android:style/Widget.DeviceDefault.Light.Button.Small"
+        android:layout_below="@+id/textView4"
+        android:layout_alignParentStart="true" />
+
+    <TextView
+        android:text="Chord"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView6"
+        android:layout_below="@+id/noteGsharp"
+        android:layout_alignParentStart="true" />
+
+    <Button
+        android:text="E"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:id="@+id/chordE"
+        style="@android:style/Widget.DeviceDefault.Light.Button.Small"
+        android:layout_below="@+id/textView6"
+        android:layout_alignParentStart="true" />
+
+    <SeekBar
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/volume3"
+        android:layout_above="@+id/textView2"
+        android:layout_alignEnd="@+id/chordDsharpdim"
+        android:max="100" />
+
+    <Button
+        android:text="E"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:id="@+id/keyE"
+        style="@android:style/Widget.DeviceDefault.Light.Button.Small"
+        android:layout_alignBaseline="@+id/keyD"
+        android:layout_alignBottom="@+id/keyD"
+        android:layout_toEndOf="@+id/keyD" />
+
+    <Button
+        android:text="A"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:id="@+id/chordA"
+        style="@android:style/Widget.DeviceDefault.Light.Button.Small"
+        android:layout_alignTop="@+id/chordGsharpdim"
+        android:layout_toEndOf="@+id/chordGsharpdim" />
+
+    <Button
+        android:text="C"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:id="@+id/keyC"
+        style="@android:style/Widget.DeviceDefault.Light.Button.Small"
+        android:layout_below="@+id/textView16"
+        android:layout_alignParentStart="true" />
+
+    <TextView
+        android:text="Octave"
+        android:layout_width="50dp"
+        android:layout_height="20dp"
+        android:id="@+id/textView3"
+        android:layout_below="@+id/keyC"
+        android:layout_alignParentStart="true" />
+
+    <TextView
+        android:text="Note"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView4"
+        android:layout_alignBottom="@+id/octaveHigher"
+        android:layout_alignParentStart="true" />
+
+    <TextView
+        android:text="Reverb"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView9"
+        android:layout_alignTop="@+id/reverb1"
+        android:layout_centerHorizontal="true" />
+
+    <SeekBar
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/volume2"
+        android:max="100"
+        android:layout_above="@+id/reverb1"
+        android:layout_alignParentStart="true" />
+
+    <TextView
+        android:text="Notes Volume "
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView10"
+        android:layout_alignTop="@+id/volume3"
+        android:layout_toEndOf="@+id/chordGsharpdim" />
+
+    <TextView
+        android:text="Song Volume"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView2"
+        android:layout_above="@+id/volume2"
+        android:layout_centerHorizontal="true" />
+
+    <Button
+        android:text="B"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:id="@+id/keyB"
+        style="@android:style/Widget.DeviceDefault.Light.Button.Small"
+        android:layout_alignBaseline="@+id/keyA"
+        android:layout_alignBottom="@+id/keyA"
+        android:layout_alignParentEnd="true" />
+
+    <Button
+        android:text="A"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:id="@+id/keyA"
+        style="@android:style/Widget.DeviceDefault.Light.Button.Small"
+        android:layout_alignBaseline="@+id/keyG"
+        android:layout_alignBottom="@+id/keyG"
+        android:layout_toStartOf="@+id/keyB" />
+
+    <Button
+        android:text="C#m"
+        android:layout_width="40dp"
+        android:layout_height="70dp"
+        android:id="@+id/chordCsharpdim"
+        style="@android:style/Widget.Holo.Light.Button.Small"
+        android:layout_alignTop="@+id/chordB"
+        android:layout_alignEnd="@+id/keyA" />
+
+    <Button
+        android:text="D#m"
+        android:layout_width="40dp"
+        android:layout_height="70dp"
+        android:id="@+id/chordDsharpdim"
+        style="@android:style/Widget.Holo.Light.Button.Small"
+        android:layout_alignBaseline="@+id/chordCsharpdim"
+        android:layout_alignBottom="@+id/chordCsharpdim"
+        android:layout_alignParentEnd="true" />
+
+    <Button
+        android:text="Higher"
+        android:layout_width="80dp"
+        android:layout_height="40dp"
+        android:id="@+id/octaveHigher"
+        android:layout_alignBaseline="@+id/octaveLower"
+        android:layout_alignBottom="@+id/octaveLower"
+        android:layout_toEndOf="@+id/textView9" />
+
+    <Button
+        android:text="Lower"
+        android:layout_width="80dp"
+        android:layout_height="40dp"
+        android:id="@+id/octaveLower"
+        android:layout_below="@+id/textView3"
+        android:layout_toEndOf="@+id/textView3" />
+
+    <ToggleButton
+        android:text="ToggleButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/onOffSwitch2"
+        android:layout_alignParentBottom="true"
+        android:layout_toEndOf="@+id/textView2" />
+
+    <ToggleButton
+        android:text="ToggleButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/reverb1"
+        android:layout_toEndOf="@+id/keyD"
+        android:id="@+id/onOffSwitch" />
+
+</RelativeLayout>
+
